@@ -1,0 +1,48 @@
+﻿Input;Description;Kick;Snare;Tom;Hihat;Cymbals
+35;Acoustic Bass Drum or Low Bass Drum;1;2;3;4;5
+36; Electric Bass Drum or High Bass Drum;1;2;3;4;5
+37;Side Stick;1;2;3;4;5
+38;Acoustic Snare;1;2;3;4;5
+39; Hand Clap;1;2;3;4;5
+40;Electric Snare or Rimshot;1;2;3;4;5
+41;Low Floor Tom;1;2;3;4;5
+42;Closed Hi-hat;1;2;3;4;5
+43;High Floor Tom;1;2;3;4;5
+44;Pedal Hi-hat;1;2;3;4;5
+45;Low Tom;1;2;3;4;5
+46;Open Hi-hat;1;2;3;4;5
+47;Low-Mid Tom;1;2;3;4;5
+48;High-Mid Tom;1;2;3;4;5
+49; Crash Cymbal 1;1;2;3;4;5
+50;High Tom;1;2;3;4;5
+51; Ride Cymbal 1;1;2;3;4;5
+52; Chinese Cymbal;1;2;3;4;5
+53; Ride Bell;1;2;3;4;5
+54; Tambourine;1;2;3;4;5
+55; Splash Cymbal;1;2;3;4;5
+56; Cowbell;1;2;3;4;5
+57; Crash Cymbal 2;1;2;3;4;5
+58; Vibraslap;1;2;3;4;5
+59; Ride Cymbal 2;1;2;3;4;5
+60;High Bongo;1;2;3;4;5
+61;Low Bongo;1;2;3;4;5
+62;Mute High Conga;1;2;3;4;5
+63;Open High Conga;1;2;3;4;5
+64;Low Conga;1;2;3;4;5
+65;High Timbale;1;2;3;4;5
+66;Low Timbale;1;2;3;4;5
+67;High Agogô;1;2;3;4;5
+68;Low Agogô;1;2;3;4;5
+69; Cabasa;1;2;3;4;5
+70; Maracas;1;2;3;4;5
+71;Short Whistle;1;2;3;4;5
+72;Long Whistle;1;2;3;4;5
+73;Short Güiro;1;2;3;4;5
+74;Long Güiro;1;2;3;4;5
+75; Claves;1;2;3;4;5
+76;High Woodblock;1;2;3;4;5
+77;Low Woodblock;1;2;3;4;5
+78;Mute Cuíca;1;2;3;4;5
+79;Open Cuíca;1;2;3;4;5
+80;Mute Triangle;1;2;3;4;5
+81;Open Triangle;1;2;3;4;5
