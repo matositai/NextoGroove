@@ -57,7 +57,7 @@ with mido.open_input(VIRTUAL_PORT_NAME) as inport:
                         now = time.time()
                         elapsed = now - last_beat_time
                         bpm = int(60 / elapsed)
-                        print(f"⏱️ BPM: {bpm:.2f}")
+                        print(f"⏱️ BPM: {bpm}")
                         last_beat_time = now
                         clock_count = 0
 
