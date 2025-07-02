@@ -1,6 +1,4 @@
-density_class;notes_per_bar_lower_bound;notes_per_bar_upper_bound;components_upper_bound;components_lower_bound
-1;0;1;3;5
-2;1;2;2;4
-3;2;4;1;3
-4;4;8;1;2
-5;8;16;1;1
+density_class,notes_per_bar_lower_bound,notes_per_bar_upper_bound,components_lower_bound,components_upper_bound
+1,0,1,3,5
+2,2,3,2,4
+3,4,5,1,3
