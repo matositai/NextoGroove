@@ -13,7 +13,6 @@ We want our recommender to be :
 2. Sensitive to the note density.
 3. Maximizing the recommended voicing coherence.
 4. Aware of past recommendations
-5. 
 
 *Notes :*
 On (4) - we want to have a configurable recommender that can have a stationary/robust or chaotic behavior.
@@ -73,6 +72,26 @@ Type B Model : Score Based Recommendation.
 	
 	*need to figure out a way to make this selection procedure coherence aware*
 
+# Live Algorithm explanation (Score Based Recommendation)
+0. Run score pooling & get updated score pooling ranks
+1. Set initial bar to empty
+2. Set initial recommendation to empty
+3. Start
+4. Set all controls to 0 
+5. A bar is activated when we see the first 24
+6. Read stream until second 24 comes
+7. Stop streaming
+8. Perform recommendation
+9. Store recommendation
+10. Store bar
+11. Compare with previous bar & recommendation
+12. Regularize recommendation
+13. Go back to 1
+
+Requirements - David should send 24s pretty continuosly
+Comment - should we save the bars and call the recommender asynchronously
+
 # References
 https://tom.preston-werner.com/2010/08/23/readme-driven-development.html .
 https://www.markdownguide.org/basic-syntax/ .
+https://arxiv.org/html/2410.03205v1
