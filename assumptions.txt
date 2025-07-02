@@ -1,7 +1,0 @@
-ASSUMPTIONS
-
-Bar_Barrier_Note = 24
-#this notes denotes the start and end of a bar
-#basically everything that exists between 2 Barrier_Notes is in the same bar
-#so we calculate the notes per bar as the number of notes that exist 
-#between 2 24s
